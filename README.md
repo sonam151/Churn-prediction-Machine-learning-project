@@ -1,2 +1,2 @@
-#Customer-Churn-prediction-Machine-learning-project
+Customer-Churn-prediction-Machine-learning-project
 Its a basic machine learning project
